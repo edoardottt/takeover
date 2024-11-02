@@ -44,7 +44,7 @@ k_ = {
 
 # index/lenght * 100
 def PERCENT(x, y):
-    return lambda x, y: float(x) / float(y) * 100
+    return (float(x) / float(y)) * 100 if y != 0 else 0
 
 
 services = {
