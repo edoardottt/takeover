@@ -2,7 +2,7 @@
 
 ### ([@edoardottt](https://github.com/edoardottt) fork)
 
-![screen](screen.png)
+![screen](https://raw.githubusercontent.com/edoardottt/takeover/master/screen.png)
 
 Sub-domain takeover vulnerability occur when a sub-domain (**subdomain.example.com**) is pointing to a service (e.g: **GitHub**, **AWS/S3**,..) that has been removed or deleted.  
 This allows an attacker to set up a page on the service that was being used and point their page to that sub-domain.  
