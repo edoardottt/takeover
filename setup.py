@@ -2,7 +2,7 @@ from setuptools import setup
 
 setup(
     name="takeover",
-    version="0.1",
+    version="0.2",
     description="Sub-Domain TakeOver Vulnerability Scanner",
     url="https://github.com/edoardottt/takeover",
     author="edoardottt",
