@@ -4,9 +4,9 @@ setup(
     name="takeover",
     version="0.1",
     description="Sub-Domain TakeOver Vulnerability Scanner",
-    url="https://github.com/m4ll0k/takeover",
-    author="m4ll0k",
-    author_email="m4ll0k@protonmail.com",
+    url="https://github.com/edoardottt/takeover",
+    author="edoardottt",
+    author_email="edoardott@gmail.com",
     license="MIT",
     scripts=["takeover.py"],
     install_requires=[

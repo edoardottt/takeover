@@ -2,6 +2,7 @@
 # takeover - subdomain takeover finder
 # coded by M'hamed (@m4ll0k) Outaadi
 # edited by edoardottt (https://github.com/edoardottt/takeover)
+# https://edoardottt.com/
 
 import os
 import json
@@ -222,11 +223,9 @@ def banner():
     print(" _( ^)  |T|A|K|E|O|V|E|R|")
     print("/   ~\\  ----------------")
     print("#> by M'hamed (@m4ll0k) Outaadi")
-    print("#> http://github.com/m4ll0k")
-    print("#> fork http://github.com/edoardottt")
+    print("#> https://github.com/m4ll0k")
+    print("#> forked by https://github.com/edoardottt")
     print("-" * 40)
-    print()
-    warn("CHECK AT https://github.com/m4ll0k/takeover IF THE BANNERS WERE UPDATED !")
     print()
 
 
